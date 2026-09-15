@@ -10,17 +10,17 @@ Make a app that has all the detailed information on the different health and wel
 
 | Option | Description | Pros | Cons |
 |--------|-------------|------|------|
-| Option A | | | |
-| Option B (recommended) | | | |
+| Option A |Keep the current provider website without adding additional page for the services.|No cost.|Miss opportunity to attract new customers, and harder for users to determine which services provider take|
+| Option B (recommended) |Build an app that assist users in exploring health and waiver services options. |Improve marketting for provider, makes waiver services easier to understand, and gain perspective clients. |Requires maintanence and employee training. |
 
 ## 4. Feasibility
 
 | Type | Assessment |
 |------|------------|
-| Operational — will people actually use/support this? | |
-| Technical — can we build it with what we have/can get? | |
-| Economic — does the payoff justify the cost? | |
-| Schedule — can it be done in a useful timeframe? | |
+| Operational — will people actually use/support this? |Users will use it because they want an easier way to view the different services that are available. |
+| Technical — can we build it with what we have/can get? |The app can be build in with existing website.|
+| Economic — does the payoff justify the cost? |The benefits after will justify the low cost. |
+| Schedule — can it be done in a useful timeframe? |Yes it can be done in a useful timeframe. |
 
 ## 5. Costs & Benefits
 
@@ -28,16 +28,16 @@ Make a app that has all the detailed information on the different health and wel
 
 | Item | One-time | Ongoing/year |
 |------|----------|----------------|
-| | | |
+|Website Development |50|50 |
 
 **Benefits** (tangible + intangible):
 
 | Benefit | Tangible ($/time saved)? | Notes |
 |---------|-----------------------------|-------|
-| | | |
+|Increased client inquiry|Yes | |
 
-**Payback period:** [time to recoup cost]
-**ROI:** [(benefit − cost) / cost]
+**Payback period:** [time to recoup cost] Short
+**ROI:** [(benefit − cost) / cost] Positive
 
 *(See Toolkit Part C — Financial Analysis Tools document for payback, ROI, and present value formulas.)*
 
