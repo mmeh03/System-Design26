@@ -1,10 +1,10 @@
-# Business Case — [Product/Service Name]
+# Business Case — Health and Wellness Waiver
 
 ## 1. Problem / Opportunity
-What's the situation today, and why does it matter? (1–2 sentences)
+Different waiver programs and their services are difficult to find as they are often on different website, making it hard for clients, caregivers, and providers to access the information and who is eligible.
 
 ## 2. Proposed Solution
-One paragraph, plain language, no implementation detail.
+Make a app that has all the detailed information on the different health and wellness services, making it easier for users to discover.
 
 ## 3. Options Considered
 
@@ -43,10 +43,11 @@ One paragraph, plain language, no implementation detail.
 
 ## 6. Priority & Urgency
 Why now? What happens if we wait or don't do it?
+If we wait, users will continue to be confused and not get the correct information they need. It is important as users need clearer and faster access to the different services they could be eligible for. 
 
 ## 7. Recommendation
 One sentence: which option, and the go/no-go ask.
-
+Build the Health and Wellness Waiver services page.
 ## 8. Approval
 
 | Role | Name | Date | Decision |
