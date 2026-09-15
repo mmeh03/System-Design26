@@ -1,6 +1,6 @@
 # Specification: [Health and Wellness Waiver Resource]
 
-App description: The app will help users explore the different health and wellness services by providing the services catagories and allowing them to get a detailed view of each.
+App description: The app will help users explore the different health and wellness services by providing the services catagories and allowing them to get a detailed view of each. The app will involve home care provider website and incorporating the waiver services to help market and gain more clients. 
 
 ## Style and Theme
 
@@ -15,7 +15,7 @@ Use the *style-guide.html* for details on styling -- fonts, colors, and layout.
 
 ### Story 1 (most important)
 
-New clients and caregivers will be using the app. Users who are in need of extra help with taking care of their loved ones or themself. Targeted for those who want to take care of their loved one without worrying about money, or getting a caretaker for their loved one without worrying about paying out of pocket. The users will see the different services that are available and see which one they could be eligble for and the next step going forward.
+New clients and caregivers will be using the app. Users who are in need of extra help with taking care of their loved ones or themself. Targeted for those who want to take care of their loved one without worrying about money, or getting a caretaker for their loved one without worrying about paying out of pocket. The users will see the different services that are available and see which one they could be eligble for and the next step going forward. The perspective client will contact the provider through the app to gain more insight on next steps, where the provider will assist them. The end goal would be the provider gaining an client out of this process.
 
 ---
 
