@@ -1,13 +1,13 @@
-# Specification: [Your App Idea Name]
+# Specification: [Health and Wellness Waiver Resource]
 
-App description: [Write a one or two sentences describing what your app does and who it’s for.]
+App description: The app will help users explore the different health and wellness services by providing the services catagories and allowing them to get a detailed view of each.
 
 ## Style and Theme
 
-[Describe the look and feel of your app.] 
+The app will have soft colors, so that it is appealing to both client and caregiver views. It will have clean lines, with simple color such as white, grey, light blue, and yellow.
 
 Overall mood:
-Examples: fun and playful, calm and professional, bold and energetic, etc.
+Warm and supportive
 
 Use the *style-guide.html* for details on styling -- fonts, colors, and layout.
 
@@ -15,13 +15,13 @@ Use the *style-guide.html* for details on styling -- fonts, colors, and layout.
 
 ### Story 1 (most important)
 
-[Write 1-2 sentences. Who is using the app, what do they want to do, and what do they see when it works? Write it like you are describing it to a friend.]
+New clients and caregivers will be using the app. Users who are in need of extra help with taking care of their loved ones or themself. Targeted for those who want to take care of their loved one without worrying about money, or getting a caretaker for their loved one without worrying about paying out of pocket. The users will see the different services that are available and see which one they could be eligble for and the next step going forward.
 
 ---
 
 ## Requirements
 
-Write clear statements about what the app must do.
+The app will provide detailed description of the different services, who is eligble, and the next steps for users to take.
 
 ### Functional Requirements
 
