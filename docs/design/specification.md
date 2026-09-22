@@ -25,17 +25,17 @@ The app will provide detailed description of the different services, who is elig
 
 ### Functional Requirements
 
-1. The app must include these pages:
+R1. The app must include these pages:
 	 - Home (`#/`)
 	 - Collection (`#/items`)
 	 - Item detail (`#/items/:id`)
 	 - About (`#/about`)
-2. The navigation bar must let people move to Home, Items, and About.
-3. The app must load data from `items-template.csv` (a simple text table file).
-4. The collection page must show one card per row in the data file.
-5. Each card must include name, short description, and image (if available).
-6. Each card must include a way to open that item's detail page.
-7. The detail page must show full information for one selected item.
+R2. The navigation bar must let people move to Home, Items, and About.
+R3. The app must load data from `items-template.csv` (a simple text table file).
+R4. The collection page must show one card per row in the data file.
+R5. Each card must include name, short description, and image (if available).
+R6. Each card must include a way to open that item's detail page.
+R7. The detail page must show full information for one selected item.
 
 ### Key Data
 
