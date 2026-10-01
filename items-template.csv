@@ -1,4 +1,4 @@
 id,name,description,category,image_url,location
-home-community,Home and Community,"Provides assistance with maintaining cleanliness in the house, including housekeeping tasks like sweeping, dishes, meal prep, cleaning, laundry, errands, and shopping.",Community support,,
-structured-family-care,Structured Family Care,"A caregiver who lives at the same address as the client may be eligible. Support may include activities of daily living (ADLs) and Home and Community tasks.",Family support,,
-attendant-care,Attendant Care,"Provides hands-on, hourly assistance with daily activities like bathing, dressing, and mobility. Under updated rules, Legally Responsible Individuals (LRIs), such as spouses or parents of minors, generally cannot be paid as attendant care providers.",Care support,,
+home-community,Home and Community,"Provides assistance with maintaining cleanliness in the house, including housekeeping tasks like sweeping, dishes, meal prep, cleaning, laundry, errands, and shopping.",Community support,./HM.jpeg,
+structured-family-care,Structured Family Care,"A caregiver who lives at the same address as the client may be eligible. Support may include activities of daily living (ADLs) and Home and Community tasks.",Family support,./SFC.jpg,
+attendant-care,Attendant Care,"Provides hands-on, hourly assistance with daily activities like bathing, dressing, and mobility. Under updated rules, Legally Responsible Individuals (LRIs), such as spouses or parents of minors, generally cannot be paid as attendant care providers.",Care support,./AT.jpg,

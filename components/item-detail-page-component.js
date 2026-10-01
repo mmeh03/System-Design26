@@ -48,6 +48,7 @@ export default {
           </div>
 
           <p class="lead mb-3">{{ selectedItem.description || 'No description available.' }}</p>
+          <p v-if="selectedItem.location" class="mb-3"><strong>Location:</strong> {{ selectedItem.location }}</p>
           <div class="alert services-note mb-0" role="note">
             Availability and eligibility vary. Contact the provider to confirm service details and possible next steps.
           </div>
