@@ -12,7 +12,7 @@
 | T4 | Add the navigation links for Home, Services, and About | R2, ADR-00 | T3 | Done |
 | T5 | Build the Home page for the waiver resource | R1, R2 | T3 | Done |
 | T6 | Build the Services page with one card for each service | R1, R3, R4, R5, ADR-01 | T2, T3 | Done |
-| T7 | Add a link from each service card to its detail page | R6 | T6 | Not started |
+| T7 | Add a link from each service card to its detail page | R6 | T6 | Done |
 | T8 | Build the Service detail page with full service information | R1, R6, R7 | T2, T3, T7 | Not started |
 | T9 | Build the About page with provider information | R1, R2 | T3 | Not started |
 | T10 | Add the sample service data and show an error when data cannot load | R3, R4, R5, ADR-01 | T2, T6 | Not started |
