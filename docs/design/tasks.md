@@ -15,7 +15,7 @@
 | T7 | Add a link from each service card to its detail page | R6 | T6 | Done |
 | T8 | Build the Service detail page with full service information | R1, R6, R7 | T2, T3, T7 | Done |
 | T9 | Build the About page with provider information | R1, R2 | T3 | Done |
-| T10 | Add the sample service data and show an error when data cannot load | R3, R4, R5, ADR-01 | T2, T6 | Not started |
+| T10 | Add the sample service data and show an error when data cannot load | R3, R4, R5, ADR-01 | T2, T6 | Done |
 | T11 | Test the page navigation, service cards, detail links, and data-load error | R1–R7 | T4, T5, T6, T7, T8, T9, T10 | Not started |
 | T12 | Add Supabase login and service data | R1–R7, ADR-02 | T11 | Not started |
 | T13 | Add the Python service with Agno and connect OpenRouter | R7, ADR-03 | T12 | Not started |
